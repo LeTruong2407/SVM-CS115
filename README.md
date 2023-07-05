@@ -1,6 +1,8 @@
 # Support Vector Machine
 ## _Final Proejct CS115_
-This is the course for website deployment. The website was built with the aim of displaying image classification demo with the support of support vector machine model.
+This is the project that my team and I do it for the course CS115 and
+this is the course for website deployment. The website was built with the aim of displaying image classification demo with the support of support vector machine model.
+
 ## Features
 - Image Classification (Dog & Cat)
 
