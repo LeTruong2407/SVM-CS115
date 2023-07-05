@@ -14,7 +14,7 @@ this is the course for website deployment. The website was built with the aim of
 | Demo | Link |
 | ------ | ------ |
 | Image classification | https://cs115-svm.streamlit.app |
-| Model source code | https://colab.research.google.com/drive/1Y7u_x0LYeJwDJA_82eU5PIeJjAf0Zt_U?usp=sharing |
+
 
 ## Tech
 
